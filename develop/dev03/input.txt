@@ -1,0 +1,4 @@
+slava man 19
+maria women 20
+artem man 18
+julia women 20
